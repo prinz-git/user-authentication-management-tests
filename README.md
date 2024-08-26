@@ -5,7 +5,7 @@ Install the flask package in order to be able to run the webserver
 pip install flask
 ```
 
-Open a terminal and run the following command from the project directory
+Open a terminal and run the following command from the project directory (folder :WebPage)
 ```
 python webserver.py
 ```
