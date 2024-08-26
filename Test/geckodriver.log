@@ -1,0 +1,586 @@
+1719247363364	geckodriver	INFO	Listening on 127.0.0.1:57983
+1719247365168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilenAzaqI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719247366760	Marionette	INFO	Marionette enabled
+1719247368228	Marionette	INFO	Listening on port 58003
+Read port: 58003
+WebDriver BiDi listening on ws://127.0.0.1:57984
+1719247368782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57984/devtools/browser/1bc6c630-c23b-4366-8032-ce3a5869ad68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719247399546	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.process3//domnode27, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/DevTools listening on ws://127.0.0.1:58447/devtools/browser/a7758ddb-282f-40df-803a-9b7190687fbf
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719247592801	Marionette	INFO	Stopped listening on port 58460
+Dynamically enable window occlusion 1
+1719247659809	geckodriver	INFO	Listening on 127.0.0.1:58690
+1719247661815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile7MV9UR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719247662729	Marionette	INFO	Marionette enabled
+1719247663871	Marionette	INFO	Listening on port 58707
+WebDriver BiDi listening on ws://127.0.0.1:58691
+Read port: 58707
+1719247664528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58691/devtools/browser/9c676791-86a1-4658-b99e-c150f861353b
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719247692765	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719247693621	Marionette	INFO	Stopped listening on port 58707
+Dynamically enable window occlusion 1
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-study-addons getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1719247725342	geckodriver	INFO	Listening on 127.0.0.1:58889
+1719247727619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileW0mClw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719247728076	Marionette	INFO	Marionette enabled
+1719247729127	Marionette	INFO	Listening on port 58903
+WebDriver BiDi listening on ws://127.0.0.1:58890
+Read port: 58903
+1719247729807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58890/devtools/browser/a98303ab-15fc-4926-9228-11caf3bbc7a1
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719247759889	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719247829602	Marionette	INFO	Stopped listening on port 58903
+Dynamically enable window occlusion 1
+1719248041738	geckodriver	INFO	Listening on 127.0.0.1:59576
+1719248043775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilervX2bC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719248044359	Marionette	INFO	Marionette enabled
+1719248045636	Marionette	INFO	Listening on port 59591
+WebDriver BiDi listening on ws://127.0.0.1:59577
+Read port: 59591
+1719248046389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59577/devtools/browser/ac65bf28-c176-430c-beef-2b4894014480
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1719248051481	Marionette	INFO	Stopped listening on port 59591
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: "Could not load engine" "google@search.mozilla.org" (new Error("XPIProvider can't start bootstrap scope for google@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.sys.mjs", 1965))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: "Could not load engine" "wikipedia@search.mozilla.org" (new Error("XPIProvider can't start bootstrap scope for wikipedia@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.sys.mjs", 1965))
+console.error: "Could not load engine" "bing@search.mozilla.org" (new Error("XPIProvider can't start bootstrap scope for bing@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.sys.mjs", 1965))
+console.error: "Could not load engine" "ddg@search.mozilla.org" (new Error("XPIProvider can't start bootstrap scope for ddg@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.sys.mjs", 1965))
+console.error: SearchService: "Could not find a replacement default engine."
+console.error: WebExtensions: 
+  Message: [Exception... "#init: abandoning init due to shutting down"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/SearchService.sys.mjs :: #init :: line 1401"  data: no]
+  Stack:
+    #init@resource://gre/modules/SearchService.sys.mjs:1401:27
+
+console.error: URLBar - Provider.UrlbarProviderSearchTips: ({})
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1279: Error: SearchService failed while it was initializing.
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1401: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1401: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1401: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.sys.mjs, line 134: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1279}]'[JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1279}]' when calling method: [nsISearchService::defaultEngine]
+console.error: "Failed to import bookmarks from chrome://browser/content/default-bookmarks.html:" (new Error("places.sqlite#0: cannot execute operation Bookmarks.geBookmarkDetailMap, the connection is already closing", "resource://gre/modules/Sqlite.sys.mjs", 529))
+console.error: "Bookmarks.html file could be corrupt. " (new Error("places.sqlite#0: cannot execute operation Bookmarks.geBookmarkDetailMap, the connection is already closing", "resource://gre/modules/Sqlite.sys.mjs", 529))
+console.error: (new Error("places.sqlite#0: cannot execute operation Bookmarks.sys.mjs: fetchBookmark, the connection is already closing", "resource://gre/modules/Sqlite.sys.mjs", 529))
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("cannot write without any engine.", "resource://gre/modules/SearchSettings.sys.mjs", 280))
+1719248105007	geckodriver	INFO	Listening on 127.0.0.1:59756
+1719248106948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileZMXmk3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719248107397	Marionette	INFO	Marionette enabled
+1719248108564	Marionette	INFO	Listening on port 59768
+WebDriver BiDi listening on ws://127.0.0.1:59757
+Read port: 59768
+1719248109226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59757/devtools/browser/51f467c6-01da-4428-89ca-c174a812ecce
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719248140885	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719248233866	Marionette	INFO	Stopped listening on port 59768
+Dynamically enable window occlusion 1
+1719249050734	geckodriver	INFO	Listening on 127.0.0.1:61767
+1719249052738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileVBEJjV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719249053222	Marionette	INFO	Marionette enabled
+1719249054361	Marionette	INFO	Listening on port 61781
+Read port: 61781
+WebDriver BiDi listening on ws://127.0.0.1:61768
+1719249054881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61768/devtools/browser/93c79d28-cd9b-407b-8a19-d37c135b58a0
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719249071118	Marionette	INFO	Stopped listening on port 61781
+Dynamically enable window occlusion 1
+1719250165906	geckodriver	INFO	Listening on 127.0.0.1:64063
+1719250167991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileYwqi1P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719250168387	Marionette	INFO	Marionette enabled
+1719250169489	Marionette	INFO	Listening on port 64076
+Read port: 64076
+WebDriver BiDi listening on ws://127.0.0.1:64064
+1719250169954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64064/devtools/browser/3dc0dbea-cdf9-4300-8275-729620c94c90
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719250202025	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719250662553	Marionette	INFO	Stopped listening on port 64076
+Dynamically enable window occlusion 1
+1719250666736	geckodriver	INFO	Listening on 127.0.0.1:65080
+1719250668780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileGOGpxL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719250669302	Marionette	INFO	Marionette enabled
+1719250670697	Marionette	INFO	Listening on port 65095
+Read port: 65095
+WebDriver BiDi listening on ws://127.0.0.1:65081
+1719250671481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65081/devtools/browser/64c481c8-4bbf-42d2-a38d-52818afc8237
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719250700749	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719527950013	geckodriver	INFO	Listening on 127.0.0.1:56201
+1719527951955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileb1A50F"
+1719528031406	geckodriver	INFO	Listening on 127.0.0.1:56415
+1719528033329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileQqFZqc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719528035026	Marionette	INFO	Marionette enabled
+1719528037492	Marionette	INFO	Listening on port 56431
+WebDriver BiDi listening on ws://127.0.0.1:56416
+Read port: 56431
+Read port: 56431
+1719528039142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56416/devtools/browser/56b71e3a-abac-43f8-a5d8-47bc4ab25c37
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719528065164	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719528138812	Marionette	INFO	Stopped listening on port 56431
+Dynamically enable window occlusion 1
+1719528171721	geckodriver	INFO	Listening on 127.0.0.1:56734
+1719528173022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilesn5sJF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719528173727	Marionette	INFO	Marionette enabled
+1719528174903	Marionette	INFO	Listening on port 56749
+Read port: 56749
+WebDriver BiDi listening on ws://127.0.0.1:56735
+1719528175341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56735/devtools/browser/6978d198-ba4f-420c-bf32-b2dab15081a4
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719528201931	Marionette	INFO	Stopped listening on port 56749
+Dynamically enable window occlusion 1
+1719528318550	geckodriver	INFO	Listening on 127.0.0.1:57061
+1719528320567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileyykNSu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719528321190	Marionette	INFO	Marionette enabled
+1719528322316	Marionette	INFO	Listening on port 57075
+Read port: 57075
+WebDriver BiDi listening on ws://127.0.0.1:57062
+1719528322777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57062/devtools/browser/cfb7b657-fbb1-4157-a9de-9c0c23edddab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719528353514	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1719528542398	Marionette	INFO	Stopped listening on port 57075
+Dynamically enable window occlusion 1
+1719528615223	geckodriver	INFO	Listening on 127.0.0.1:57671
+1719528617216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileVPBqh0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719528617848	Marionette	INFO	Marionette enabled
+1719528618805	Marionette	INFO	Listening on port 57684
+Read port: 57684
+WebDriver BiDi listening on ws://127.0.0.1:57672
+1719528619245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57672/devtools/browser/37fd63df-dc13-4c91-873e-8be0920b644c
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719528647979	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719531227767	Marionette	INFO	Stopped listening on port 57684
+Dynamically enable window occlusion 1
+1719603180743	geckodriver	INFO	Listening on 127.0.0.1:49991
+1719603182625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile98TkFO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719603185704	Marionette	INFO	Marionette enabled
+1719603187724	Marionette	INFO	Listening on port 50009
+WebDriver BiDi listening on ws://127.0.0.1:49992
+Read port: 50009
+1719603189925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49992/devtools/browser/cde30dc9-52c0-43ee-ad13-9a6220316401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719603207484	Marionette	INFO	Stopped listening on port 50009
+Dynamically enable window occlusion 1
+1719603237155	geckodriver	INFO	Listening on 127.0.0.1:50101
+1719603239015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileg3bAh8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719603239634	Marionette	INFO	Marionette enabled
+1719603240882	Marionette	INFO	Listening on port 50113
+WebDriver BiDi listening on ws://127.0.0.1:50102
+Read port: 50113
+1719603241627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50102/devtools/browser/fdbeb920-b8d6-4238-9693-d80ae5347049
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719603272611	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719603370035	Marionette	INFO	Stopped listening on port 50113
+Dynamically enable window occlusion 1
+1719603385471	geckodriver	INFO	Listening on 127.0.0.1:50326
+1719603387291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilemwE1Yf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719603388228	Marionette	INFO	Marionette enabled
+1719603389876	Marionette	INFO	Listening on port 50338
+Read port: 50338
+WebDriver BiDi listening on ws://127.0.0.1:50327
+1719603390515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50327/devtools/browser/3316d7c3-7a2c-408c-975d-59cd8e471551
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719603420163	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719603606062	Marionette	INFO	Stopped listening on port 50338
+Dynamically enable window occlusion 1
+1719754154683	geckodriver	INFO	Listening on 127.0.0.1:54135
+1719754157945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilefwxFCj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719754163951	Marionette	INFO	Marionette enabled
+1719754167247	Marionette	INFO	Listening on port 54164
+WebDriver BiDi listening on ws://127.0.0.1:54136
+Read port: 54164
+Read port: 54164
+1719754169774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54136/devtools/browser/97ce2739-a6ce-44f4-98b8-a59534e4a3a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719754196141	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719754469262	Marionette	INFO	Stopped listening on port 54164
+Dynamically enable window occlusion 1
+1719754646160	geckodriver	INFO	Listening on 127.0.0.1:54755
+1719754649388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile3v3oTv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719754650142	Marionette	INFO	Marionette enabled
+1719754651407	Marionette	INFO	Listening on port 54769
+Read port: 54769
+WebDriver BiDi listening on ws://127.0.0.1:54756
+1719754651812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54756/devtools/browser/607154c2-6f91-4fa1-9906-a1b818d940d8
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719754664018	Marionette	INFO	Stopped listening on port 54769
+Dynamically enable window occlusion 1
+1719754687885	geckodriver	INFO	Listening on 127.0.0.1:54851
+1719754689913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilexUDggc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719754691201	Marionette	INFO	Marionette enabled
+1719754692321	Marionette	INFO	Listening on port 54863
+Read port: 54863
+WebDriver BiDi listening on ws://127.0.0.1:54852
+1719754692712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54852/devtools/browser/5140de16-392f-4489-ad64-e7a0cdaf9d13
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719754721918	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719755133782	Marionette	INFO	Stopped listening on port 54863
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileyCOvwu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719754945517	Marionette	INFO	Marionette enabled
+1719754946596	Marionette	INFO	Listening on port 55219
+WebDriver BiDi listening on ws://127.0.0.1:55207
+Read port: 55219
+1719754947385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55207/devtools/browser/7bed9b45-fee7-4123-a399-efddffa57852
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719754977800	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719755134826	Marionette	INFO	Stopped listening on port 55219
+Dynamically enable window occlusion 1
+1719755927149	geckodriver	INFO	Listening on 127.0.0.1:56334
+1719755929135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile0YSoEJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719755929778	Marionette	INFO	Marionette enabled
+1719755930927	Marionette	INFO	Listening on port 56345
+WebDriver BiDi listening on ws://127.0.0.1:56335
+Read port: 56345
+1719755931486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56335/devtools/browser/ef03e01f-2179-4d13-ab3d-f3650ebce032
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 939))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 939: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1719755960042	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719756179070	Marionette	INFO	Stopped listening on port 56345
+Dynamically enable window occlusion 1
+1724147921260	geckodriver	INFO	Listening on 127.0.0.1:53045
+1724147923650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileU3p3T6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724147926976	Marionette	INFO	Marionette enabled
+1724147928824	Marionette	INFO	Listening on port 53075
+Read port: 53075
+WebDriver BiDi listening on ws://127.0.0.1:53046
+1724147929899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1724147954156	Marionette	INFO	Stopped listening on port 53075
+Dynamically enable window occlusion 1
+1724149722147	geckodriver	INFO	Listening on 127.0.0.1:55031
+1724149724024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilefQwVoe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724149727023	Marionette	INFO	Marionette enabled
+1724149728866	Marionette	INFO	Listening on port 55046
+Read port: 55046
+WebDriver BiDi listening on ws://127.0.0.1:55032
+1724149729847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1724149744466	Marionette	INFO	Stopped listening on port 55046
+Dynamically enable window occlusion 1
+1724150051132	geckodriver	INFO	Listening on 127.0.0.1:55465
+1724150053160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileCmr5yA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724150053555	Marionette	INFO	Marionette enabled
+1724150054667	Marionette	INFO	Listening on port 55476
+Read port: 55476
+WebDriver BiDi listening on ws://127.0.0.1:55466
+1724150055095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 915))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 915: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1724150063438	Marionette	INFO	Stopped listening on port 55476
+Dynamically enable window occlusion 1
+1724150653493	geckodriver	INFO	Listening on 127.0.0.1:56222
+1724150655473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilekx0Gtg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724150656280	Marionette	INFO	Marionette enabled
+1724150657249	Marionette	INFO	Listening on port 56234
+WebDriver BiDi listening on ws://127.0.0.1:56223
+Read port: 56234
+1724150657791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 915))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 915: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1724150666090	Marionette	INFO	Stopped listening on port 56234
+Dynamically enable window occlusion 1
+1724150999549	geckodriver	INFO	Listening on 127.0.0.1:56672
+1724151001579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilenUq1fX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724151002022	Marionette	INFO	Marionette enabled
+1724151003306	Marionette	INFO	Listening on port 56686
+Read port: 56686
+WebDriver BiDi listening on ws://127.0.0.1:56673
+1724151003798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 915))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 915: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:3000."
+1724151019788	Marionette	INFO	Stopped listening on port 56686
+Dynamically enable window occlusion 1
+1724590265039	geckodriver	INFO	Listening on 127.0.0.1:58167
+1724590267117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileGShC2v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724590268734	Marionette	INFO	Marionette enabled
+1724590270529	Marionette	INFO	Listening on port 58183
+Read port: 58183
+WebDriver BiDi listening on ws://127.0.0.1:58168
+1724590271357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+1724590293339	Marionette	INFO	Stopped listening on port 58183
+Dynamically enable window occlusion 1
+1724590488720	geckodriver	INFO	Listening on 127.0.0.1:58510
+1724590490753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile4vGBP4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724590491150	Marionette	INFO	Marionette enabled
+1724590492370	Marionette	INFO	Listening on port 58521
+WebDriver BiDi listening on ws://127.0.0.1:58511
+Read port: 58521
+1724590492971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 915))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: resource:///modules/SearchSERPTelemetry.sys.mjs, line 915: TypeError: this._searchProviderInfo is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.0.205:5000."
+1724590502361	Marionette	INFO	Stopped listening on port 58521
+Dynamically enable window occlusion 1

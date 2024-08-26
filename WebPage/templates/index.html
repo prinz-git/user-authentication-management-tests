@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login or Sign Up</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+  <body class="landing">
+    <div class="login-form">
+      <a class="signuplink" id="signupLink" href="#">Sign Up</a>
+      <h2>Login</h2>
+      
+      <form action="/login" method="POST" >
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+        <input type="submit" value="login" ><br>
+        
+      </form>
+      <p>{{message}}</p>
+    </div>
+    
+
+  <div id="signupModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h1>Sign Up</h1>
+      <form action="/signup" method="POST">
+        <div class="modal-body">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+          <br>
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password" required>
+        </div>
+        <input type="submit" value="Sign up" ><br>
+      </form>
+    </div>
+  </div>
+  </body>
+</html>
